@@ -333,5 +333,60 @@ class Secretariat{
                     'Welikanda Divisional Secretariat',
                 ),
         ),
+
+        'Northern' => array(
+            'Jaffna' =>
+                array(
+                    'Delft Divisional Secretariat',
+                    'Island North Divisional Secretariat',
+                    'Island South Divisional Secretariat',
+                    'Jaffna Divisional Secretariat',
+                    'Karainagar Divisional Secretariat',
+                    'Nallur Divisional Secretariat',
+                    'Thenmaradchi Divisional Secretariat',
+                    'Vadamaradchi East Divisional Secretariat',
+                    'Vadamarachchi North Divisional Secretariat',
+                    'Vadamarachchi South-West Divisional Secretariat',
+                    'Valikamam East Divisional Secretariat',
+                    'Valikamam North Divisional Secretariat',
+                    'Valikamam West Divisional Secretariat',
+                    'Valikamam South Divisional Secretariat',
+                    'Valikamam South West Divisional Secretariat',
+                ),
+
+            'Kilinochchi' =>
+                array(
+                    'Kandavalai Divisional Secretariat',
+                    'Karachchi Divisional Secretariat',
+                    'Pachchilaipalli Divisional Secretariat',
+                    'Poonakary Divisional Secretariat',
+                ),
+            'Mannar' =>
+                array(
+                    'Madhu Divisional Secretariat',
+                    'Mannar Divisional Secretariat',
+                    'Manthai West Divisional Secretariat',
+                    'Musali Divisional Secretariat',
+                    'Nanaddan Divisional Secretariat',
+                ),
+
+            'Vavuniya' =>
+                array(
+                    'Vavuniya Divisional Secretariat',
+                    'Vavuniya North Divisional Secretariat',
+                    'Vavuniya South Divisional Secretariat',
+                    'Vengalacheddikulam Divisional Secretariat',
+                ),
+            
+            'Mullaitivu' =>
+                array(
+                    'Manthai East Divisional Secretariat',
+                    'Maritimepattu Divisional Secretariat',
+                    'Oddusadan Divisional Secretariat',
+                    'Puthukudiyiruppu Divisional Secretariat',
+                    'Thunukkai Divisional Secretariat',
+                    'Welioya Divisional Secretariat',
+                ),
+        ),
     );
 }
