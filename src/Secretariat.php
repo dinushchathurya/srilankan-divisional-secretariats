@@ -138,7 +138,21 @@ class Secretariat{
                     'Ududumbara Divisional Secretariat',
                     'Udunuwara Divisional Secretariats',
                     'Yatinuwara Divisional Secretariat',
-                )
+                ),
+            'Matale' =>
+                array(
+                    'Dambulla Divisional Secretariat',
+                    'Ambanganga Korale Divisional Secretariat',
+                    'Galewala Divisional Secretariat',
+                    'Laggala-Pallegama Divisional Secretariat',
+                    'Matale Divisional Secretariat',
+                    'Naula Divisional Secretariat',
+                    'Pallepola Divisional Secretariat',
+                    'Rattota Divisional Secretariat',
+                    'Ukuwela Divisional Secretariat',
+                    'Wilgamuwa Divisional Secretariat',
+                    'Yatawatta Divisional Secretariat',
+                ),
         ),
     );
 }
