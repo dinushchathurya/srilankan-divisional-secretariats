@@ -3,7 +3,23 @@
 namespace Dinushchathurya\Secretariat;
 
 class Secretariat{
-	
+
+    public static function getProvinces(){
+        return array_keys(self::$Secretariat);
+    }
+
+    public static function getDistricts($secretariat){
+        return array_keys(self::$Secretariat[$secretariat]);
+    }
+
+    public static function getAuthorities($authority){
+        foreach(self::$Secretariat as $secretariat => $curAuthority){
+            if(in_array($authority,array_keys($curAuthority))){
+                return $curAuthority[$authority];
+            }
+        }
+    }
+
     public static $Secretariat = array(
         
         'Western' => array(
@@ -447,6 +463,6 @@ class Secretariat{
                     'Verugal Divisional Secretariat'
                 ),
         )
-        
+
     );
 }
