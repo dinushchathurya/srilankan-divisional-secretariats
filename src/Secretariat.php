@@ -294,5 +294,44 @@ class Secretariat{
                     'Yatiyanthota Divisional Secretariat',
                 ),
         ),
+
+        'North Central' => array(
+            'Anuradhapura' =>
+                array(
+                    'Galnewa Divisional Secretariat',
+                    'Galenbindunuwewa Divisional Secretariat',
+                    'Horowpathana Divisional Secretariat',
+                    'Ipalogama Divisional Secretariat',
+                    'Kahatagasdigiliya Divisional Secretariat',
+                    'Kebathigollawa Divisional Secretariat',
+                    'Kekirawa Divisional Secretariat',
+                    'Mahawillachchiya Divisional Secretariat',
+                    'Medawachchciya Divisional Secretariat',
+                    'Mihintale Divisional Secretariat',
+                    'Nachchadoowa Divisional Secretariat',
+                    'Nochchiyagama Divisional Secretariat',
+                    'Nuwaragam Palatha (East) Divisional Secretariat',
+                    'Nuwaragam Palatha (Central) Divisional Secretariat',
+                    'Padaviya Divisional Secretariat',
+                    'Palagala Divisional Secretariat',
+                    'Palugaswewa Divisional Secretariat',
+                    'Rajanganaya Divisional Secretariat',
+                    'Rambewa Divisional Secretariat',
+                    'Thalawa Divisional Secretariat',
+                    'Thabuththegama Divisional Secretariat',
+                    'Thirappane Divisional Secretariat',
+                ),
+
+            'Polonnaruwa' =>
+                array(
+                    'Dimbulagala Divisional Secretariat',
+                    'Elahera Divisional Secretariat',
+                    'Hingurakgoda Divisional Secretariat',
+                    'Lankapura Divisional Secretariat',
+                    'Medirigiriya Divisional Secretariata',
+                    'Thamankaduwa Divisional Secretariats',
+                    'Welikanda Divisional Secretariat',
+                ),
+        ),
     );
 }
