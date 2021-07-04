@@ -8,12 +8,12 @@ class Secretariat{
         return array_keys(self::$Secretariat);
     }
 
-    public static function getDistricts($secretariat){
-        return array_keys(self::$Secretariat[$secretariat]);
+    public static function getDistricts($province){
+        return array_keys(self::$Secretariat[$province]);
     }
 
     public static function getAuthorities($authority){
-        foreach(self::$Secretariat as $secretariat => $curAuthority){
+        foreach(self::$Secretariat as $province => $curAuthority){
             if(in_array($authority,array_keys($curAuthority))){
                 return $curAuthority[$authority];
             }
