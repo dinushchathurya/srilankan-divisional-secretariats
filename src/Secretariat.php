@@ -196,7 +196,31 @@ class Secretariat{
                     'Siyambalanduwa Divisional Secretariat',
                     'Thanamalwila Divisional Secretariat',
                     'Wellawaya Divisional Secretariat',
+                )
+        ),
+
+        'Southern' => array(
+            'Galle' =>
+                array(
+                    'Galle Four Gravert Divisional Secretariat',
+                    'Ambalangoda Divisional Secretariat',
+                    'Hikkaduwa Divisional Secretariat',
+                    'Akmeemana PDivisional Secretariat',
+                    'Baddegama Divisional Secretariat',
+                    'Balapitiya Divisional Secretariat',
+                    'Bentota Divisional Secretariat',
+                    'Bope-Poddala Divisional Secretariat',
+                    'Elpitiya Divisional Secretariat',
+                    'Gonapinuwala Divisional Secretariat',
+                    'Habaraduwa Divisional Secretariat',
+                    'Imaduwa Divisional Secretariat',
+                    'Karandeniya Divisional Secretariat',
+                    'Nagoda Divisional Secretariat',
+                    'Neluwa Divisional Secretariat',
+                    'Niyagama Divisional Secretariat',
+                    'Thawalama Divisional Secretariat',
+                    'Yakkalamulla Divisional Secretariat',
                 ),
-            ),
+        ),
     );
 }
