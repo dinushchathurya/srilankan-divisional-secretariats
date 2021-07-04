@@ -256,5 +256,43 @@ class Secretariat{
                     'Walasmulla Divisional Secretariat',
                 ),
         ),
+
+        'Sabaragamuwa' => array(
+            'Ratnapura' =>
+                array(
+                    'Ayagama Divisional Secretariat',
+                    'Balangoda Divisional Secretariat',
+                    'Eheliyagoda Divisional Secretariat',
+                    'Elapattha Divisional Secretariat',
+                    'Embilipitiya Divisional Secretariat',
+                    'Godakawela Divisional Secretariat',
+                    'Imbulpe Divisional Secretariat',
+                    'Kahawatta Divisional Secretariat',
+                    'Kalawana Divisional Secretariat',
+                    'iriella Divisional Secretariat',
+                    'Kolonna Divisional Secretariat',
+                    'Kuruvita Divisional Secretariat',
+                    'Nivithigala Divisional Secretariat',
+                    'Opanayaka Divisional Secretariat',
+                    'Pelmadulla Divisional Secretariat',
+                    'Ratnapura Divisional Secretariat',
+                    'Weligepola Divisional Secretariat',
+                ),
+
+            'Kegalle' =>
+                array(
+                    'Aranayaka Divisional Secretariat',
+                    'Bulathkohupitiya Divisional Secretariat',
+                    'Dehiowita Divisional Secretariat',
+                    'Deraniyagala Divisional Secretariat',
+                    'Galigamuwa Divisional Secretariat',
+                    'Kegalle Divisional Secretariat',
+                    'Mawanella Divisional Secretariat',
+                    'ambukkana Divisional Secretariat',
+                    'Ruwanwella Divisional Secretariat',
+                    'Warakapola Divisional Secretariat',
+                    'Yatiyanthota Divisional Secretariat',
+                ),
+        ),
     );
 }
