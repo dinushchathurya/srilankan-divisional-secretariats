@@ -153,6 +153,14 @@ class Secretariat{
                     'Wilgamuwa Divisional Secretariat',
                     'Yatawatta Divisional Secretariat',
                 ),
+            'Nuwara Eliya' =>
+                array(
+                    'Ambagamuwa Divisional Secretariat',
+                    'Hanguranketha Divisional Secretariat',
+                    'Kothmale Divisional Secretariat',
+                    'Nuwara Eliya Divisional Secretariat',
+                    'Walapane Divisional Secretariat',
+                ),
         ),
     );
 }
