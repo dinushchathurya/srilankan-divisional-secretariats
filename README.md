@@ -41,11 +41,11 @@ public function exampleFunction(){
     return Secretariat::getAuthorities('District'); // Returns district secretariats of a district 
 }
 ```
-<!-- # Documentataion
-You can find the documentation for this package from [here](https://srilankan-local-authorities.herokuapp.com/documentation) .
+# Documentataion
+You can find the documentation for this package from [here](https://divisional-secretariats.herokuapp.com/documentation) .
 
 # Working demo
-You can find the working demo for this package from [here](https://srilankan-local-authorities.herokuapp.com/) . -->
+You can find the working demo for this package from [here](http://divisional-secretariats.herokuapp.com/) .
 
 # Contributing
 
