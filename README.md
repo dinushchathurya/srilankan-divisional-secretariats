@@ -36,9 +36,9 @@ use Dinushchathurya\Secretariat\Secretariat;
 
 public function exampleFunction(){
 
-    return Council::getProvinces(); // Returns all provinces 
-    return Council::getDistricts('Province'); // Returns districts of province 
-    return Council::getAuthorities('District'); // Returns district secretariats of a district 
+    return Secretariat::getProvinces(); // Returns all provinces 
+    return Secretariat::getDistricts('Province'); // Returns districts of province 
+    return Secretariat::getAuthorities('District'); // Returns district secretariats of a district 
 }
 ```
 <!-- # Documentataion
