@@ -162,5 +162,26 @@ class Secretariat{
                     'Walapane Divisional Secretariat',
                 ),
         ),
+
+        'Uva' => array(
+            'Badulla' =>
+                array(
+                    'Bandarawela Divisional Secretariat',
+                    'Badulla Divisional Secretariat',
+                    'Ella Divisional Secretariat',
+                    'Haldummulla Divisional Secretariat',
+                    'Hali-Ela Divisional Secretariat',
+                    'Haputale Divisional Secretariat',
+                    'Kandeketiya Divisional Secretariat',
+                    'Lunugala Divisional Secretariat',
+                    'Mahiyanganaya Divisional Secretariat',
+                    'Meegahakiula Divisional Secretariat',
+                    'Passara Divisional Secretariat',
+                    'Rideemaliyadda Divisional Secretariat',
+                    'Soranatota Divisional Secretariat',
+                    'Uva Paranagama Divisional Secretariat',
+                    'Welimada Divisional Secretariat',
+                )
+            ),
     );
 }
