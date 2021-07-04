@@ -1,6 +1,9 @@
 {
     "name": "dinushchathurya/divisional-secretariats",
+    "description": "This includes all Srilankan Divisioanl Secretariats",
+    "keywords": ["SriLankan Local Authorities", "SriLankan Divisioanl Secretariats", "Divisioanl Secretariats in SriLanka"],
     "type": "package",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "dinushchathurya",
