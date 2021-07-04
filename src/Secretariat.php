@@ -388,5 +388,65 @@ class Secretariat{
                     'Welioya Divisional Secretariat',
                 ),
         ),
+
+        'Eastern' => array(
+            'Batticaloa' =>
+                array(
+                    'Eravur Divisional Secretariat',
+                    'Eravur Town Divisional Secretariat',
+                    'Kattankudy Divisional Secretariat',
+                    'Koralaipattu Divisional Secretariat',
+                    'Koralaipattu West Divisional Secretariat',
+                    'Koralaipattu North Divisional Secretariat',
+                    'Koralaipattu Central Divisional Secretariat',
+                    'Koralaipattu South Divisional Secretariat',
+                    'Manmunai North Divisional Secretariat',
+                    'Manmunai Pattu Divisional Secretariat',
+                    'Manmunai S. and Eruvil Pattu Divisional Secretariat',
+                    'Manmunai South West Divisional Secretariat',
+                    'Manmunai West Divisional Secretariat',
+                    'Porativu Pattu Divisional Secretariat',
+                ),
+
+            'Ampara' =>
+                array(
+                    'Addalachchenai Divisional Secretariat',
+                    'Akkaraipattu Divisional Secretariat',
+                    'Alayadiwembu Divisional Secretariat',
+                    'Ampara Divisional Secretariat',
+                    'Dehiyattakandiya Divisional Secretariat',
+                    'Damana Divisional Secretariat',
+                    'Eragama Divisional Secretariat',
+                    'Kallmunai Muslim Divisional Secretariat',
+                    'Kallmunai Tamil Divisional Secretariat',
+                    'Karaithivu Divisional Secretariat',
+                    'Mahaoya Divisional Secretariat',
+                    'Padiyatalawa Divisional Secretariat',
+                    'Sammanthurai Divisional Secretariat',
+                    'Saindamarathu Divisional Secretariat',
+                    'Potuvil Divisional Secretariat',
+                    'Lahugala Divisional Secretariat',
+                    'Nindavur Divisional Secretariat',
+                    'Thirukkovil Divisional Secretariat',
+                    'Navithanveli Divisional Secretariat',
+                    'Uhana Divisional Secretariat',
+                ),
+            
+            'Trincomalee' =>
+                array(
+                    'Seruvila Divisional Secretariat',
+                    'Kantalai Divisional Secretariat',
+                    'Morawewa Divisional Secretariat',
+                    'Gomarankadawala Divisional Secretariat',
+                    'Trincomalee Divisional Secretariat',
+                    'Kuchchaveli Divisional Secretariat',
+                    'Thampalakamam Divisional Secretariat',
+                    'Muttur Divisional Secretariat',
+                    'Kinniya Divisional Secretariat',
+                    'Padavi Sri Pura Divisional Secretariat',
+                    'Verugal Divisional Secretariat'
+                ),
+        )
+        
     );
 }
