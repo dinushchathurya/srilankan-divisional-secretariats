@@ -181,7 +181,22 @@ class Secretariat{
                     'Soranatota Divisional Secretariat',
                     'Uva Paranagama Divisional Secretariat',
                     'Welimada Divisional Secretariat',
-                )
+                ),
+
+            'Monaragala' =>
+                array(
+                    'Badalkumbara Divisional Secretariat',
+                    'Bibila Divisional Secretariat',
+                    'Buttala Divisional Secretariat',
+                    'Kataragama Divisional Secretariat',
+                    'Madulla Divisional Secretariat',
+                    'Medagama Divisional Secretariat',
+                    'Moneragala Divisional Secretariat',
+                    'Sewanagala Divisional Secretariat',
+                    'Siyambalanduwa Divisional Secretariat',
+                    'Thanamalwila Divisional Secretariat',
+                    'Wellawaya Divisional Secretariat',
+                ),
             ),
     );
 }
