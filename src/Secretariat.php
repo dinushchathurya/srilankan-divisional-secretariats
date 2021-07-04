@@ -112,6 +112,33 @@ class Secretariat{
                     'Wennappuwa Divisional Secretariat',
                 ),
             
-        )
+        ),
+
+        'Central' => array(
+            'Kandy' =>
+                array(
+                    'Akurana Divisional Secretariat',
+                    'Kobeigane Divisional Secretariat',
+                    'Deltota Divisional Secretariat',
+                    'Dolduwa Divisional Secretariat',
+                    'Ganga Ihala Divisional Secretariat',
+                    'Harispattuwa Divisional Secretariat',
+                    'Haraliyadda Divisional Secretariat',
+                    'Kandy Gravets & Gangawata Korale Divisional Secretariat',
+                    'Kundasale Divisional Secretariat',
+                    'Meda Dumbara Divisional Secretariat',
+                    'Minipe Divisional Secretariat',
+                    'Panwila Divisional Secretariat',
+                    'Pasbage Korale Divisional Secretariat',
+                    'Patadumbara Divisional Secretariat',
+                    'Patahewaheta Divisional Secretariat',
+                    'Pujapitiya Divisional Secretariats',
+                    'Thumpane Divisional Secretariats',
+                    'Uda Palatha Divisional Secretariat',
+                    'Ududumbara Divisional Secretariat',
+                    'Udunuwara Divisional Secretariats',
+                    'Yatinuwara Divisional Secretariat',
+                )
+        ),
     );
 }
