@@ -92,6 +92,26 @@ class Secretariat{
                     'Wariyapola Divisional Secretariat',
                     'Udubaddawa Divisional Secretariat',
                 ),
+            'Puttalam' =>
+                array(
+                    'Puttalam Divisional Secretariat',
+                    'Dankotuwa Divisional Secretariat',
+                    'Chilaw Divisional Secretariat',
+                    'Anamaduwa Divisional Secretariat',
+                    'Arachchikattuwa Divisional Secretariat',
+                    'Kalpitiya Divisional Secretariat',
+                    'Karuwalagaswewa Divisional Secretariat',
+                    'Mahakumbukkamkadawala Divisional Secretariat',
+                    'Madampe Divisional Secretariat',
+                    'Mahawewa Divisional Secretariat',
+                    'Mundel Divisional Secretariat',
+                    'Nattandiya Divisional Secretariat',
+                    'Nawagattegama Divisional Secretariat',
+                    'Pallama Divisional Secretariat',
+                    'Wanathawilluwa Divisional Secretariat',
+                    'Wennappuwa Divisional Secretariat',
+                ),
+            
         )
     );
 }
