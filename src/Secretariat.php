@@ -221,6 +221,40 @@ class Secretariat{
                     'Thawalama Divisional Secretariat',
                     'Yakkalamulla Divisional Secretariat',
                 ),
+            'Matara' =>
+                array(
+                    'Weligama Divisional Secretariat',
+                    'Akuressa Divisional Secretariat',
+                    'Athuraliya Divisional Secretariat',
+                    'Devinuwara Divisional Secretariat',
+                    'Hakmana Divisional Secretariat',
+                    'Kamburupitiya Divisional Secretariat',
+                    'Kirinda-Puhulwella Divisional Secretariat',
+                    'Kotapola Divisional Secretariat',
+                    'Malimbada Divisional Secretariat',
+                    'Matara Divisional Secretariat',
+                    'Mulatiyana Divisional Secretariat',
+                    'Pasgoda Divisional Secretariat',
+                    'Pitabeddara Divisional Secretariat',
+                    'Thihagoda Divisional Secretariat',
+                    'Welipitiya Divisional Secretariat',
+                ),
+
+            'Hambantota' =>
+                array(
+                    'Hambantota Divisional Secretariat',
+                    'Ambalantota Divisional Secretariat',
+                    'Angunakolapelassa Divisional Secretariat',
+                    'Beliatta Divisional Secretariat',
+                    'Weeraketiya Divisional Secretariat',
+                    'Katuwana Divisional Secretariat',
+                    'Lunugamvehera Divisional Secretariat',
+                    'Okewala Divisional Secretariat',
+                    'Sooriyawewa Divisional Secretariat',
+                    'Tangalle Divisional Secretariat',
+                    'Tissamaharama Divisional Secretariat',
+                    'Walasmulla Divisional Secretariat',
+                ),
         ),
     );
 }
