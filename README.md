@@ -5,6 +5,7 @@
     <img alt="Packagist Downloads" src="https://img.shields.io/packagist/dm/dinushchathurya/srilankan-divisional-secretariats?style=plastic">
     <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/dinushchathurya/srilankan-divisional-secretariats?logoColor=orange&style=plastic">
     <img src="https://img.shields.io/badge/coverage-90%25-yellowgreen">
+    <img alt="Packagist License" src="https://img.shields.io/packagist/l/dinushchathurya/srilankan-divisional-secretariats?style=plastic">
     <img src="https://img.shields.io/badge/rating-★★★★☆-brightgreen">
     <img src="https://img.shields.io/badge/uptime-100%25-brightgreen">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/dinushchathurya/srilankan-divisional-secretariats?style=plastic">
