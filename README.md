@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.0-blue">
     <img alt="Scrutinizer build (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/build/g/dinushchathurya/srilankan-divisional-secretariats/main">
-    <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/quality/g/dinushchathurya/srilankan-local-authorities">
+    <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/quality/g/dinushchathurya/srilankan-divisional-secretariats/main">
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dinushchathurya/srilankan-universities-faculties-degress/total?style=plastic">
     <img src="https://img.shields.io/badge/dependencies-up%20to%20date-orange">
     <img src="https://img.shields.io/badge/coverage-90%25-yellowgreen">
