@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/coverage-90%25-yellowgreen">
     <img src="https://img.shields.io/badge/rating-★★★★☆-brightgreen">
     <img src="https://img.shields.io/badge/uptime-100%25-brightgreen">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/dinushchathurya/srilankan-universities-faculties-degress?style=plastic">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/dinushchathurya/srilankan-divisional-secretariats?style=plastic">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dinushchathurya/srilankan-universities-faculties-degress?style=plastic">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dinushchathurya/srilankan-universities-faculties-degrees?style=plastic">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dinushchathurya/srilankan-divisional-secretariats?style=plastic">
