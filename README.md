@@ -3,7 +3,7 @@
     <img alt="Scrutinizer build (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/build/g/dinushchathurya/srilankan-divisional-secretariats/main?style=plastic">
     <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/quality/g/dinushchathurya/srilankan-divisional-secretariats/main?style=plastic">
     <img alt="Packagist Downloads" src="https://img.shields.io/packagist/dm/dinushchathurya/srilankan-divisional-secretariats?style=plastic">
-    <img src="https://img.shields.io/badge/dependencies-up%20to%20date-orange">
+    <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/dinushchathurya/srilankan-divisional-secretariats?logoColor=orange&style=plastic">
     <img src="https://img.shields.io/badge/coverage-90%25-yellowgreen">
     <img src="https://img.shields.io/badge/rating-★★★★☆-brightgreen">
     <img src="https://img.shields.io/badge/uptime-100%25-brightgreen">
